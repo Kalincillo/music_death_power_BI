@@ -1,0 +1,821 @@
+,musician_id,stage_name,stage_lastname,death_age,cause,genre,City,State,Country
+0,1,John,Lennon,40,homicide,rock,Liverpool,England,United Kingdom
+1,271,Rory,Storm,34,suicide,rock,Liverpool,England,United Kingdom
+2,502,Tom,Evans,36,suicide,rock,Liverpool,England,United Kingdom
+3,473,Billy,Fury,42,heart disease,rock,Liverpool,England,United Kingdom
+4,188,Brian,Epstein,32,drugs related,rock,Liverpool,England,United Kingdom
+5,432,Kit,Lambert,45,homicide,rock,London,England,United Kingdom
+6,672,Paul,Jeffreys,36,aircraft accident,rock,London,England,United Kingdom
+7,333,Paul,Kossoff,25,heart disease,rock,London,England,United Kingdom
+8,614,Snakefinger, ,38,heart disease,rock,London,England,United Kingdom
+9,28,Sid,Vicious,21,drugs related,rock,London,England,United Kingdom
+10,42,Malcolm,Owen,25,drugs related,rock,London,England,United Kingdom
+11,420,Steve,Took,31,drugs related,rock,London,England,United Kingdom
+12,444,Guy,Stevens,38,drugs related,rock,London,England,United Kingdom
+13,507,Paul,Gardiner,25,drugs related,rock,London,England,United Kingdom
+14,751,B.,Wilson,43,drugs related,rock,London,England,United Kingdom
+15,22,Marc,Bolan,29,car/motorcycle accident,rock,London,England,United Kingdom
+16,179,Johnny,Kidd,30,car/motorcycle accident,rock,London,England,United Kingdom
+17,355,Marc,Bolan,29,car/motorcycle accident,rock,London,England,United Kingdom
+18,617,Pete,King,28,cancer,rock,London,England,United Kingdom
+19,693,Vic,Maile,45,cancer,rock,London,England,United Kingdom
+20,769,Frank ,Esler-Smith,42,respiratory disease,rock,London,England,United Kingdom
+21,369,Sandy,Denny,31,brain related,rock,London,England,United Kingdom
+22,696,Larry,Parnes,59,brain related,rock,London,England,United Kingdom
+23,609,Victor,Feldman,53,heart disease,jazz,London,England,United Kingdom
+24,21,Amy,Winehouse,27,alcohol related,jazz,London,England,United Kingdom
+25,768,Slim,Gaillard,80,cancer,jazz,London,England,United Kingdom
+26,299,Graham,Bond,36,suicide,blues,London,England,United Kingdom
+27,790,Alan,Spenner,43,heart disease,blues,London,England,United Kingdom
+28,280,Mike,Furber,25,suicide,pop,London,England,United Kingdom
+29,537,Matt,Monro,54,cancer,pop,London,England,United Kingdom
+30,712,Melanie,Appleby,23,respiratory disease,pop,London,England,United Kingdom
+31,309,Victor,Olof,76,unknown,pop,London,England,United Kingdom
+32,459,Rusty,Day,36,homicide,rock,Garden City,Michigan,United States
+33,481,Felix,Pappalardi,43,homicide,rock,New York City,New York,United States
+34,610,Gary,Driscoll,41,homicide,rock,New York City,New York,United States
+35,196,Bert,Berns,38,heart disease,rock,New York City,New York,United States
+36,551,Brian,Keenan,42,heart disease,rock,New York City,New York,United States
+37,195,Robin,Roberts,27,car/motorcycle accident,rock,New York City,New York,United States
+38,458,Neil,Bogart,39,cancer,rock,New York City,New York,United States
+39,373,Joe,Negroni,37,brain related,rock,New York City,New York,United States
+40,806,Eric,Carr,41,cancer,metal,New York City,New York,United States
+41,51,Scott,La Rock,25,homicide,hip-hop,New York City,New York,United States
+42,52,Paul,C,20,homicide,hip-hop,New York City,New York,United States
+43,57,Tupac ,,25,homicide,hip-hop,New York City,New York,United States
+44,58,Yaki,Kadafi,19,homicide,hip-hop,New York City,New York,United States
+45,59,Notorious,B.I.G,24,homicide,hip-hop,New York City,New York,United States
+46,61,Big,L,24,homicide,hip-hop,New York City,New York,United States
+47,64,Jam,Jay,37,homicide,hip-hop,New York City,New York,United States
+48,66,Half,Mill,30,homicide,hip-hop,New York City,New York,United States
+49,95,Pop,Smoke,20,homicide,hip-hop,New York City,New York,United States
+50,661,Jean-Michel,Basquiat,27,drugs related,hip-hop,New York City,New York,United States
+51,186,Elmo,Hope,43,heart disease,jazz,New York City,New York,United States
+52,528,Shelly,Manne,64,heart disease,jazz,New York City,New York,United States
+53,603,Budy,Rich,69,heart disease,jazz,New York City,New York,United States
+54,581,Eddie,Davis,64,cancer,jazz,New York City,New York,United States
+55,192,Bert,Lahr,72,respiratory disease,jazz,New York City,New York,United States
+56,403,Jimmy,Durante,86,respiratory disease,jazz,New York City,New York,United States
+57,343,Buddy,Johnson,62,brain related,jazz,New York City,New York,United States
+58,530,Teddy,Reig,65,unknown,jazz,New York City,New York,United States
+59,292,Bobby,Darin,37,surgery,jazz,New York City,New York,United States
+60,251,Tony,Clarke,31,homicide,blues,New York City,New York,United States
+61,615,John,Hammond,76,respiratory disease,blues,New York City,New York,United States
+62,654,Dick,Jacobs,70,unknown,blues,New York City,New York,United States
+63,598,Danny,Kaye,76,heart disease,pop,New York City,New York,United States
+64,508,Ethel,Merman,76,cancer,pop,New York City,New York,United States
+65,419,Lincoln,Chase,54,unknown,pop,New York City,New York,United States
+66,175,Richard,Fariña,29,car/motorcycle accident,folk,New York City,New York,United States
+67,443,Harry,Chapin,38,car/motorcycle accident,folk,New York City,New York,United States
+68,740,Bert,Sommer,41,respiratory disease,folk,New York City,New York,United States
+69,146,Eli,Oberstein,58,cancer,country,New York City,New York,United States
+70,559,Tommy,Blake,54,homicide,rock,Dallas,Texas,United States
+71,621,David,Martin,50,heart disease,rock,Dallas,Texas,United States
+72,53,Danny,Rodriguez,22,homicide,hip-hop,Dallas,Texas,United States
+73,121,Hot ,Page,46,heart disease,jazz,Dallas,Texas,United States
+74,512,Red,Garland,60,heart disease,jazz,Dallas,Texas,United States
+75,16,Stevie,Vaughan,35,aircraft accident,blues,Dallas,Texas,United States
+76,673,Whistlin,Moore,89,heart disease,blues,Dallas,Texas,United States
+77,2,Kurt,Cobain,27,suicide,rock,Aberdeen,Washington,United States
+78,17,Chris,Cornell,52,suicide,rock,Seattle,Washington,United States
+79,8,Jimi,Hendrix,27,alcohol related,rock,Seattle,Washington,United States
+80,415,Keith,Godchaux,32,car/motorcycle accident,rock,Seattle,Washington,United States
+81,539,Robert,Blackwell,66,respiratory disease,rock,Seattle,Washington,United States
+82,18,Chester ,Bennington,41,suicide,rock,Phoenix,Arizona,United States
+83,32,Ian,Curtis,23,suicide,rock,Stretford,England,United Kingdom
+84,642,Andy,Gibb,30,drugs related,pop,Stretford,England,United Kingdom
+85,35,Paul,Hester,46,suicide,rock,Melbourne,Victoria,Australia
+86,583,Tracy,Pew,28,brain related,rock,Melbourne,Victoria,Australia
+87,38,Michael,Hutchence,37,suicide,rock,Sydney,New South Wales,Australia
+88,45,Rozz,Williams,34,suicide,rock,Pomona,California,United States
+89,176,Bobby,Fuller,23,suicide,rock,Baytown,Texas,United States
+90,291,John,Rostill,31,suicide,rock,Birmingham,England,United Kingdom
+91,489,Chris,Wood,39,respiratory disease,rock,Birmingham,England,United Kingdom
+92,81,Joshua,Ribera,18,homicide,hip-hop,Birmingham,England,United Kingdom
+93,317,Pete,Ham,27,suicide,rock,Swansea,Wales,United Kingdom
+94,346,Helmut, Köllen,27,suicide,rock,Köln,North Rhine-Westphalia,Germany
+95,659,Nico, ,49,brain related,rock,Köln,North Rhine-Westphalia,Germany
+96,401,Larry,Williams,44,suicide,rock,New Orleans,Louisiana,United States
+97,67,Soulja,Slim,26,homicide,hip-hop,New Orleans,Louisiana,United States
+98,72,VL,Mike,32,homicide,hip-hop,New Orleans,Louisiana,United States
+99,91,Young,Greatness,34,homicide,hip-hop,New Orleans,Louisiana,United States
+100,246,Louis,Armstrong,69,heart disease,jazz,New Orleans,Louisiana,United States
+101,646,Pony,Pointdexter,62,drawning,jazz,New Orleans,Louisiana,United States
+102,122,Dink,Johnson,62,unknown,jazz,New Orleans,Louisiana,United States
+103,184,Fats,Pichon,60,unknown,jazz,New Orleans,Louisiana,United States
+104,191,Peter,Bocage,80,unknown,jazz,New Orleans,Louisiana,United States
+105,556,Curley,Moore,42,homicide,blues,New Orleans,Louisiana,United States
+106,384,Roy,Montrell,51,drugs related,blues,New Orleans,Louisiana,United States
+107,500,James,Booker,43,alcohol related,blues,New Orleans,Louisiana,United States
+108,815,Champion ,Dupree,81,cancer,blues,New Orleans,Louisiana,United States
+109,235,Frankie,Sims,53,respiratory disease,blues,New Orleans,Louisiana,United States
+110,586,Lee,Dorsey,61,respiratory disease,blues,New Orleans,Louisiana,United States
+111,259,Mahalia,Jackson,60,diabetes,blues,New Orleans,Louisiana,United States
+112,682,Bobby,Mitchell,53,diabetes,blues,New Orleans,Louisiana,United States
+113,412,Ian,Curtis,23,suicide,rock,Macclesfield,England,United Kingdom
+114,422,Darby,Crash,22,suicide,rock,Los Angeles,California,United States
+115,440,Chuck,Wagon,24,suicide,rock,Los Angeles,California,United States
+116,137,Ritchie,Valens,17,aircraft accident,rock,Los Angeles,California,United States
+117,700,Tim,Hovey,44,drugs related,rock,Los Angeles,California,United States
+118,441,Rushton,Moreve,32,car/motorcycle accident,rock,Los Angeles,California,United States
+119,23,Randy,California,45,drawning,rock,Los Angeles,California,United States
+120,732,Gary,Usher,51,cancer,rock,Los Angeles,California,United States
+121,742,Bobby,Day,60,cancer,rock,Los Angeles,California,United States
+122,687,Ron,Wilson,44,brain related,rock,Los Angeles,California,United States
+123,20,Paul,Gray,38,drugs related,metal,Los Angeles,California,United States
+124,94,Nipsey,Hussle,33,homicide,hip-hop,Los Angeles,California,United States
+125,102,Drakeo,Ruller,28,homicide,hip-hop,Los Angeles,California,United States
+126,152,Marilyn,Monroe,36,drugs related,jazz,Los Angeles,California,United States
+127,162,Eric,Dolphy,36,diabetes,jazz,Los Angeles,California,United States
+128,726,Dexter,Gordon,67,kidney related,jazz,Los Angeles,California,United States
+129,589,Hollywood,Fats,32,drugs related,blues,Los Angeles,California,United States
+130,671,Sylvester, ,41,AIDS,funk,Los Angeles,California,United States
+131,398,Judee,Sill,35,drugs related,folk,Los Angeles,California,United States
+132,147,Johnny,Horton,35,car/motorcycle accident,country,Los Angeles,California,United States
+133,479,Danny,Rapp,41,suicide,rock,Philadelphia,Pennsylvania,United States
+134,494,Jobriath, ,36,AIDS,rock,Philadelphia,Pennsylvania,United States
+135,33,Bobby,Rydell,79,respiratory disease,rock,Philadelphia,Pennsylvania,United States
+136,108,PnB ,Rock,30,homicide,hip-hop,Philadelphia,Pennsylvania,United States
+137,139,Billie,Holiday,44,heart disease,jazz,Philadelphia,Pennsylvania,United States
+138,548,Philly,Jones,62,heart disease,jazz,Philadelphia,Pennsylvania,United States
+139,773,Billy,Butler,66,heart disease,jazz,Philadelphia,Pennsylvania,United States
+140,366,Gregory,Herbert,30,drugs related,jazz,Philadelphia,Pennsylvania,United States
+141,295,Bobby,Timmons,38,alcohol related,jazz,Philadelphia,Pennsylvania,United States
+142,787,Stan,Getz,64,cancer,jazz,Philadelphia,Pennsylvania,United States
+143,814,Charlie,Ventura,75,cancer,jazz,Philadelphia,Pennsylvania,United States
+144,189,Rex,Stewart,60,brain related,jazz,Philadelphia,Pennsylvania,United States
+145,674,Donnie,Elbert,52,heart disease,blues,Philadelphia,Pennsylvania,United States
+146,160,Rudy,Lewis,27,drugs related,blues,Philadelphia,Pennsylvania,United States
+147,474,Lorraine,Ellison,51,cancer,blues,Philadelphia,Pennsylvania,United States
+148,230,Tammi,Terrel,24,brain related,blues,Philadelphia,Pennsylvania,United States
+149,367,Bill,Kenny,63,heart disease,pop,Philadelphia,Pennsylvania,United States
+150,396,Tiki,Fulwood,35,cancer,funk,Philadelphia,Pennsylvania,United States
+151,763,Karen,Young,39,unknown,funk,Philadelphia,Pennsylvania,United States
+152,286,Jim,Croce,30,aircraft accident,folk,Philadelphia,Pennsylvania,United States
+153,562,Phil,Lynott,36,suicide,rock,West Bromwich,England,United Kingdom
+154,568,Richard,Manuel,42,suicide,rock,Stratford,Ontario,Canada
+155,637,Alexander,Bashlachev,27,suicide,rock,Cherepovets,Vologda Oblast,Russia
+156,685,Dmitry,Selivanov,25,suicide,rock,Novosibirsk,Novosibirsk,Russia
+157,782,Yanka,Dyagileva,24,drawning,rock,Novosibirsk,Novosibirsk,Russia
+158,715,Del,Shannon,55,suicide,rock,Coopersville,Michigan,United States
+159,744,Joel,Rundell,24,suicide,rock,Louisiana,Missouri,United States
+160,222,Pop,Foster,77,unknown,jazz,Louisiana,Missouri,United States
+161,227,Slim,Harpo,46,heart disease,blues,Louisiana,Missouri,United States
+162,3,Freddie,Mercury,45,AIDS,rock,Zanzibar,Zanzibar West,Tanzania
+163,553,Ricky,Wilson,32,AIDS,rock,Athens,Georgia,United States
+164,705,Alan,Murphy,35,AIDS,rock,Islington,England,United Kingdom
+165,397,John,Glascock,28,heart disease,rock,Islington,England,United Kingdom
+166,709,Billy,Lyall,36,AIDS,rock,Edinburgh,Scotland,United Kingdom
+167,151,Stuart,Sutcliffe,21,brain related,rock,Edinburgh,Scotland,United Kingdom
+168,748,Tom,Fogerty,48,AIDS,rock,Berkeley,California,United States
+169,690,John,Cipollina,45,respiratory disease,rock,Berkeley,California,United States
+170,135,Buddy,Holly,22,aircraft accident,rock,Lubbock,Texas,United States
+171,136,Big,Bopper,28,aircraft accident,rock,Port Arthur,Texas,United States
+172,240,Janis,Joplin,27,drugs related,rock,Port Arthur,Texas,United States
+173,653,Ted,Dunbar,61,heart disease,jazz,Port Arthur,Texas,United States
+174,357,Cassie,Gaines,29,aircraft accident,rock,Amite County,Mississippi,United States
+175,358,Steve,Gaines,28,aircraft accident,rock,Miami,Oklahoma,United States
+176,359,Ronnie,Zant,29,aircraft accident,rock,Jacksonville,Florida,United States
+177,713,Allen,Collins,37,respiratory disease,rock,Jacksonville,Florida,United States
+178,560,Andy,Chapin,33,aircraft accident,rock,Springfield,Massachusetts,United States
+179,561,Ricky,Nelson,45,aircraft accident,rock,Teaneck,New Jersey,United States
+180,802,Bill,Graham,60,aircraft accident,rock,Berlin,Berlin,Germany
+181,244,Francis,Wolff,63,heart disease,jazz,Berlin,Berlin,Germany
+182,6,Elvis,Presley,42,heart disease,rock,Tupelo,Mississippi,United States
+183,12,Jim,Morrison,27,heart disease,rock,Melbourne,Florida,United States
+184,27,Brian,Connolly,51,heart disease,rock,Glasgow,Scotland,United Kingdom
+185,454,Alex,Harvey,46,heart disease,rock,Glasgow,Scotland,United Kingdom
+186,262,Leslie,Harvey,27,electrocution,rock,Glasgow,Scotland,United Kingdom
+187,40,Joe,Strummer,50,heart disease,rock,Ankara,Ankara,Turkey
+188,232,George,Goldner,52,heart disease,rock,Brooklyn,New York,United States
+189,804,Mort,Shuman,52,cancer,rock,Brooklyn,New York,United States
+190,771,Doc,Pomus,65,cancer,blues,Brooklyn,New York,United States
+191,50,Aaliyah,Haughton,22,aircraft accident,pop,Brooklyn,New York,United States
+192,294,Bobby,Bloom,28,accidental self-inflicted gunshot,pop,Brooklyn,New York,United States
+193,707,Dickie,Goodman,55,suicide,electronic,Brooklyn,New York,United States
+194,252,Gene,Vincent,36,heart disease,rock,Norfolk,Virginia,United States
+195,304,Cass,Elliot,32,heart disease,rock,Baltimore,Maryland,United States
+196,584,Bea,Booze,74,unknown,blues,Baltimore,Maryland,United States
+197,639,Divine, ,42,heart disease,pop,Baltimore,Maryland,United States
+198,567,Robbie,Basho,45,heart disease,folk,Baltimore,Maryland,United States
+199,375,Tom,Wilson,47,heart disease,rock,Waco,Texas,United States
+200,390,Lowell,George,34,heart disease,rock,Hollywood,California,United States
+201,391,Van,McCoy,39,heart disease,rock,"Washington, D.C.",District of Columbia,United States
+202,300,Duke,Ellington,75,cancer,jazz,"Washington, D.C.",District of Columbia,United States
+203,510,Marvin,Gaye,44,homicide,blues,"Washington, D.C.",District of Columbia,United States
+204,756,Ronnie,Dyson,40,heart disease,blues,"Washington, D.C.",District of Columbia,United States
+205,225,Billy,Stewart,32,car/motorcycle accident,blues,"Washington, D.C.",District of Columbia,United States
+206,318,Tim,Buckley,28,drugs related,folk,"Washington, D.C.",District of Columbia,United States
+207,393,Dorsey,Burnette,46,heart disease,rock,Memphis,Tennessee,United States
+208,379,Chris,Bell,27,car/motorcycle accident,rock,Memphis,Tennessee,United States
+209,164,Johnny,Burnette,30,drawning,rock,Memphis,Tennessee,United States
+210,173,Bill,Black,39,brain related,rock,Memphis,Tennessee,United States
+211,103,Snootie ,Wild,26,homicide,hip-hop,Memphis,Tennessee,United States
+212,250,Lil,Armstrong,73,heart disease,jazz,Memphis,Tennessee,United States
+213,648,Carolyn,Franklin,43,cancer,jazz,Memphis,Tennessee,United States
+214,323,Al,Jackson,39,homicide,blues,Memphis,Tennessee,United States
+215,194,Ronnie,Caldwell,18,aircraft accident,blues,Memphis,Tennessee,United States
+216,608,Allen,Jones,46,heart disease,blues,Memphis,Tennessee,United States
+217,293,Packy,Axton,32,alcohol related,blues,Memphis,Tennessee,United States
+218,541,Willie,Mabon,59,cancer,blues,Memphis,Tennessee,United States
+219,631,Gene,Miller,54,unknown,blues,Memphis,Tennessee,United States
+220,789,Willie,Nix,68,unknown,blues,Memphis,Tennessee,United States
+221,124,Johnny,Ace,25,accidental self-inflicted gunshot,blues,Memphis,Tennessee,United States
+222,273,Raymond,Jackson,31,Burned,blues,Memphis,Tennessee,United States
+223,638,Memphis,Slim,72,kidney related,blues,Memphis,Tennessee,United States
+224,408,John,Poulos,32,heart disease,rock,Chicago,Illinois,United States
+225,274,Berry,Oakley,24,car/motorcycle accident,rock,Chicago,Illinois,United States
+226,511,Ral,Donner,41,cancer,rock,Chicago,Illinois,United States
+227,636,John,Curulewski,37,brain related,rock,Chicago,Illinois,United States
+228,365,Terry,Kath,31,accidental self-inflicted gunshot,rock,Chicago,Illinois,United States
+229,73,Dolla,,21,homicide,hip-hop,Chicago,Illinois,United States
+230,101,Young,Dolph,36,homicide,hip-hop,Chicago,Illinois,United States
+231,574,Benny,Goodman,77,heart disease,jazz,Chicago,Illinois,United States
+232,289,Gene,Krupa,64,cancer,jazz,Chicago,Illinois,United States
+233,302,Gene,Ammons,49,cancer,jazz,Chicago,Illinois,United States
+234,392,Minnie,Riperton,31,cancer,jazz,Chicago,Illinois,United States
+235,549,Jo,Jones,73,respiratory disease,jazz,Chicago,Illinois,United States
+236,381,Donny,Hathaway,33,suicide,blues,Chicago,Illinois,United States
+237,335,Charles,Stepney,45,heart disease,blues,Chicago,Illinois,United States
+238,428,Mike,Bloomfield,37,drugs related,blues,Chicago,Illinois,United States
+239,455,John,Belushi,33,drugs related,blues,Chicago,Illinois,United States
+240,607,Paul,Butterfield,44,drugs related,blues,Chicago,Illinois,United States
+241,161,Meade,Lewis,58,car/motorcycle accident,blues,Chicago,Illinois,United States
+242,662,Fred,Below,61,cancer,blues,Chicago,Illinois,United States
+243,165,Tiny,Topsy,34,brain related,blues,Chicago,Illinois,United States
+244,681,Odie,Payne,62,unknown,blues,Chicago,Illinois,United States
+245,760,Buck,Ram,83,unknown,pop,Chicago,Illinois,United States
+246,565,Albert,Grossman,59,heart disease,folk,Chicago,Illinois,United States
+247,531,Steve,Goodman,36,cancer,folk,Chicago,Illinois,United States
+248,727,Wesley,Rose,72,unknown,country,Chicago,Illinois,United States
+249,425,Felton,Jarvis,46,heart disease,rock,Atlanta,Georgia,United States
+250,86,Bankroll ,Fresh,28,homicide,hip-hop,Atlanta,Georgia,United States
+251,98,King,Von,26,homicide,hip-hop,Atlanta,Georgia,United States
+252,106,Trouble,,34,homicide,hip-hop,Atlanta,Georgia,United States
+253,527,Titus,Turner,51,unknown,blues,Atlanta,Georgia,United States
+254,427,Bill,Haley,55,heart disease,rock,Highland Park,Michigan,United States
+255,506,Jackie,Wilson,49,respiratory disease,blues,Highland Park,Michigan,United States
+256,468,Dave,Torbert,34,heart disease,rock,San Francisco,California,United States
+257,166,Gracie,Allen,69,heart disease,jazz,San Francisco,California,United States
+258,400,Voyle,Gilmore,67,unknown,jazz,San Francisco,California,United States
+259,590,Kate,Wolf,44,cancer,folk,San Francisco,California,United States
+260,775,Dave,Guard,56,cancer,folk,San Francisco,California,United States
+261,476,Karen,Carpenter,32,heart disease,rock,Montegut,Louisiana,United States
+262,490,Frank,Fenter,47,heart disease,rock,Johannesburg,Gauteng,South Africa
+263,540,Bob,Shad,65,heart disease,rock,Beverly Hills,California,United States
+264,730,Sammy,Jr.,64,cancer,jazz,Beverly Hills,California,United States
+265,257,Ross,Bagdasarian,52,heart disease,pop,Beverly Hills,California,United States
+266,555,Ian,Stewart,47,heart disease,rock,Pittenweem,Scotland,United Kingdom
+267,663,Robert,Calvert,43,heart disease,rock,Pretoria,Gauteng,South Africa
+268,667,Cliff,Gallup,58,heart disease,rock,Norfolk,Massachusetts,United States
+269,669,Roy,Orbison,52,heart disease,rock,Vernon,Texas,United States
+270,734,Richard,Sohl,37,heart disease,rock,Queens,New York,United States
+271,24,Johnny,Thunders,38,drugs related,rock,Queens,New York,United States
+272,29,Joey,Ramone,49,cancer,rock,Queens,New York,United States
+273,55,Stretch,,27,homicide,hip-hop,Queens,New York,United States
+274,62,Freaky,Tah,27,homicide,hip-hop,Queens,New York,United States
+275,435,Tracy,Weber,21,homicide,blues,Queens,New York,United States
+276,788,Michael,Landon,54,cancer,pop,Queens,New York,United States
+277,796,Rob,Tyner,46,heart disease,rock,Detroit,Michigan,United States
+278,290,Zeke,Zettner,25,drugs related,rock,Detroit,Michigan,United States
+279,737,Rob,Graves,35,drugs related,rock,Detroit,Michigan,United States
+280,69,Blade,Icewood,28,homicide,hip-hop,Detroit,Michigan,United States
+281,70,Proof,,32,homicide,hip-hop,Detroit,Michigan,United States
+282,442,Hubert,Johnson,40,suicide,blues,Detroit,Michigan,United States
+283,330,Florence,Ballard,32,heart disease,blues,Detroit,Michigan,United States
+284,632,Nat,Tarnopol,56,heart disease,blues,Detroit,Michigan,United States
+285,492,Wild,Moore,65,unknown,blues,Detroit,Michigan,United States
+286,803,Jim,Reese,49,heart disease,rock,Amarillo,Texas,United States
+287,812,Jerry,Nolan,45,heart disease,rock,Williamsburg,New York,United States
+288,813,Dee,Murray,45,heart disease,rock,Gillingham,England,United Kingdom
+289,7,Taylor,Hawkins,50,drugs related,rock,Fort Worth,Texas,United States
+290,248,King,Curtis,37,homicide,jazz,Fort Worth,Texas,United States
+291,25,Layne,Staley,34,drugs related,rock,Bellevue,Washington,United States
+292,41,GG,Allin,36,drugs related,rock,Lancaster,New Hampshire,United States
+293,198,Frankie,Lymon,25,drugs related,rock,Washington Heights,New York,United States
+294,209,Dickie,Pride,27,drugs related,rock,Thornton Heath,England,United Kingdom
+295,268,Brian,Cole,29,drugs related,rock,Tacoma,Washington,United States
+296,356,Bing,Crosby,74,heart disease,pop,Tacoma,Washington,United States
+297,324,Gary,Thain,27,drugs related,rock,Christchurch,Canterbury Region,New Zealand
+298,341,Tommy,Bolin,25,drugs related,rock,Sioux City,Iowa,United States
+299,376,Keith,Moon,32,drugs related,rock,Wembley,England,United Kingdom
+300,377,Johnny,Keefe,43,drugs related,rock,Bondi Junction,New South Wales,Australia
+301,394,Jimmy,McCulloch,26,drugs related,rock,Dumbarton,Scotland,United Kingdom
+302,416,George,III,26,drugs related,rock,Burlington,Iowa,United States
+303,457,Lester,Bangs,33,drugs related,rock,Escondido,California,United States
+304,461,James,Scott,25,drugs related,rock,Hereford,England,United Kingdom
+305,480,Pete,Farndon,30,drugs related,rock,Hereford,England,United Kingdom
+306,656,Jesse,Davis,43,drugs related,rock,Norman,Oklahoma,United States
+307,657,Hillel,Slovak,26,drugs related,rock,Haifa,Haifa District,Israel
+308,679,Vincent,Crane,45,drugs related,rock,Reading,England,United Kingdom
+309,721,Andrew,Wood,24,drugs related,rock,Columbus,Mississippi,United States
+310,741,Brent,Mydland,37,drugs related,rock,Munich,Bavaria,Germany
+311,13,Bon,Scott,33,alcohol related,rock,Forfar,Scotland,United Kingdom
+312,406,Bon,Scott,33,alcohol related,rock,Forfar,Scotland,United Kingdom
+313,14,John,Bonham,32,alcohol related,rock,Redditch,England,United Kingdom
+314,170,Alan,Freed,43,alcohol related,rock,Windber,Pennsylvania,United States
+315,265,Clyde,McPhatter,39,alcohol related,rock,Durham,North Carolina,United States
+316,451,Pigmeat,Markham,77,heart disease,pop,Durham,North Carolina,United States
+317,272,Billy,Murcia,21,alcohol related,rock,Bogotá D.C.,Bogotá D.C.,Colombia
+318,275,Danny,Whitten,29,alcohol related,rock,Columbus,Georgia,United States
+319,277,Ronald,McKernan,27,alcohol related,rock,San Bruno,California,United States
+320,314,Dave,Alexander,27,alcohol related,rock,Whitmore Lake,Michigan,United States
+321,349,Peter,Laughner,24,alcohol related,rock,Bay Village,Ohio,United States
+322,413,Carl,Radle,37,alcohol related,rock,Tulsa,Oklahoma,United States
+323,618,Howard,McGhee,69,unknown,jazz,Tulsa,Oklahoma,United States
+324,538,David,Byron,38,alcohol related,rock,Essex,England,United Kingdom
+325,779,Steve,Marriott,44, accident,rock,Essex,England,United Kingdom
+326,592,Rauli,Somerjoki,39,alcohol related,rock,Somero,Finland Proper,Finland
+327,784,Gene,Clark,46,alcohol related,rock,Tipton,Missouri,United States
+328,799,J.,Wilson,49,alcohol related,rock,Lufkin,Texas,United States
+329,36,Steve,Gilpin,42,car/motorcycle accident,rock,Wellington,Wellington Region,New Zealand
+330,144,Eddie,Cochran,21,car/motorcycle accident,rock,Albert Lea,Minnesota,United States
+331,212,Martin,Lamble,19,car/motorcycle accident,rock,City of Westminster,England,United Kingdom
+332,249,Thomas,Wayne,31,car/motorcycle accident,rock,Batesville,Mississippi,United States
+333,253,Duane,Allman,24,car/motorcycle accident,rock,Nashville,Tennessee,United States
+334,364,James,Burke,74,respiratory disease,blues,Nashville,Tennessee,United States
+335,426,Blind,Campbell,74,unknown,blues,Nashville,Tennessee,United States
+336,600,Don,Gant,44,car/motorcycle accident,pop,Nashville,Tennessee,United States
+337,321,Lefty,Frizzell,47,heart disease,country,Nashville,Tennessee,United States
+338,411,Tommy,Caldwell,30,car/motorcycle accident,rock,Spartanburg,South Carolina,United States
+339,434,Steve,Currie,33,car/motorcycle accident,rock,Grimsby,England,United Kingdom
+340,484,Eduardo,Benavente,20,car/motorcycle accident,rock,Madrid,Madrid,Spain
+341,337,Cecilia, ,27,car/motorcycle accident,folk,Madrid,Madrid,Spain
+342,533,Razzle, ,24,car/motorcycle accident,rock,Warwickshire,England,United Kingdom
+343,557,D.,Boon,27,car/motorcycle accident,rock,San Pedro,California,United States
+344,619,Alex,Sadkin,38,car/motorcycle accident,rock,Fort Lauderdale,Florida,United States
+345,692,Pete,Freitas,27,car/motorcycle accident,rock,Port of Spain,Port of Spain,Trinidad And Tobago
+346,447,Hazel,Scott,61,cancer,jazz,Port of Spain,Port of Spain,Trinidad And Tobago
+347,733,Stiv,Bators,40,car/motorcycle accident,rock,Youngstown,Ohio,United States
+348,133,Tiny,Bradshaw,51,brain related,jazz,Youngstown,Ohio,United States
+349,746,Viktor,Tsoi,28,car/motorcycle accident,rock,Saint Petersburg,Saint Petersburg,Russia
+350,792,Mike,Naumenko,36,brain related,rock,Saint Petersburg,Saint Petersburg,Russia
+351,10,Jeff,Buckley,30,drawning,rock,Anaheim,California,United States
+352,774,Leo,Fender,81,brain related,blues,Anaheim,California,United States
+353,215,Brian,Jones,27,drawning,rock,Cheltenham,England,United Kingdom
+354,504,Dennis,Wilson,39,drawning,rock,Inglewood,California,United States
+355,655,Finbarr,Donnelly,27,drawning,rock,Belfast,Northern Ireland,United Kingdom
+356,735,Jim,Hodder,42,drawning,rock,Bethpage,New York,United States
+357,800,Ole,Beich,36,drawning,rock,Esbjerg,Region of Southern Denmark,Denmark
+358,26,David,Bowie,69,cancer,rock,Brixton,England,United Kingdom
+359,325,Hound,Taylor,60,cancer,rock,Natchez,Mississippi,United States
+360,256,Papa,Lightfoot,47,heart disease,blues,Natchez,Mississippi,United States
+361,753,Arthur ,Spires,78,unknown,blues,Natchez,Mississippi,United States
+362,328,Rudy,Pompilli,51,cancer,rock,Chester,Pennsylvania,United States
+363,383,Mike,Patto,36,cancer,rock,Cirencester,England,United Kingdom
+364,404,Edward,Lewis,79,cancer,rock,Chelsea,England,United Kingdom
+365,463,Bill,Justis,55,cancer,rock,Birmingham,Alabama,United States
+366,601,Tony,Stratton-Smith,53,cancer,rock,Birmingham,Alabama,United States
+367,210,Benny,Benjamin,43,brain related,jazz,Birmingham,Alabama,United States
+368,284,Paul,Williams,34,suicide,blues,Birmingham,Alabama,United States
+369,363,Big,Ellis,63,heart disease,blues,Birmingham,Alabama,United States
+370,582,Bobby,Nunn,63,heart disease,blues,Birmingham,Alabama,United States
+371,214,Shorty,Long,29,drawning,blues,Birmingham,Alabama,United States
+372,127,Ralph,Willis,47,unknown,blues,Birmingham,Alabama,United States
+373,242,Coot ,Grant,77,unknown,blues,Birmingham,Alabama,United States
+374,558,Gus,Jenkins,54,unknown,blues,Birmingham,Alabama,United States
+375,472,Lamar,Williams,34,cancer,rock,Gulfport,Mississippi,United States
+376,477,Dig,Richards,42,cancer,rock,Dunedoo,New South Wales,Australia
+377,585,Scatman,Crothers,76,cancer,rock,Terre Haute,Indiana,United States
+378,587,Billy,Rancher,29,cancer,rock,Portland,Oregon,United States
+379,739,Gerry,Boulet,44,cancer,rock,Saint-Jean-sur-Richelieu,Quebec,Canada
+380,793,Vince,Taylor,52,cancer,rock,Isleworth,England,United Kingdom
+381,199,Syd,Nathan,63,respiratory disease,rock,Cincinnati,Ohio,United States
+382,520,Philippé,Wynne,43,heart disease,blues,Cincinnati,Ohio,United States
+383,571,O'Kelly,Jr.,11,heart disease,blues,Cincinnati,Ohio,United States
+384,254,Art,Laibly,77,unknown,blues,Cincinnati,Ohio,United States
+385,518,Guy,McDonough,28,respiratory disease,rock,Mount Eliza,Victoria,Australia
+386,647,Barbara,Robison,42,respiratory disease,rock,Las Vegas,Nevada,United States
+387,665,Tim,Davis,44,diabetes,rock,Milwaukee,Wisconsin,United States
+388,626,Woody,Herman,74,respiratory disease,jazz,Milwaukee,Wisconsin,United States
+389,39,Keith,Relf,33,electrocution,rock,Richmond,England,United Kingdom
+390,471,Rebop,Baah,38,brain related,rock,Konongo,Ashanti,Ghana
+391,340,Leo,Mintz,65,unknown,rock,Cleveland,Ohio,United States
+392,296,Harry,Womack,28,homicide,blues,Cleveland,Ohio,United States
+393,437,Ernie ,Freeman,58,heart disease,blues,Cleveland,Ohio,United States
+394,695,Bull ,Jackson,70,cancer,blues,Cleveland,Ohio,United States
+395,445,Sandra,Tilley,37,brain related,blues,Cleveland,Ohio,United States
+396,409,Ricky,Lancelotti,35,unknown,rock,Trenton,New Jersey,United States
+397,287,Maury,Muehleisen,24,aircraft accident,folk,Trenton,New Jersey,United States
+398,501,John,Grimaldi,28,unknown,rock,St Albans,England,United Kingdom
+399,650,Claude,Demetrius,71,unknown,rock,Sagadahoc County,Maine,United States
+400,698,Mickey,Hawks,49,unknown,rock,Thomasville,North Carolina,United States
+401,120,Danny,Cedrone,33, accident,rock,Onondaga County,New York,United States
+402,720,Ric,Grech,44,kidney related,rock,Bordeaux,Nouvelle-Aquitaine,France
+403,4,Dimebag,Darrel,38,homicide,metal,Ennis,Texas,United States
+404,44,Øystein,Aarseth,25,homicide,metal,Surnadal,Møre og Romsdal,Norway
+405,778,Dead, ,22,suicide,metal,Stockholm,Stockholm County,Sweden
+406,100,Einár ,,19,homicide,hip-hop,Stockholm,Stockholm County,Sweden
+407,5,Randy,Rhoads,25,aircraft accident,metal,Santa Monica,California,United States
+408,718,Dave,Prichard,26,cancer,metal,Santa Monica,California,United States
+409,572,Dorothy,Ashby,53,cancer,jazz,Santa Monica,California,United States
+410,602,Dino,Martin,35,aircraft accident,pop,Santa Monica,California,United States
+411,19,James,Sullivan,28,drugs related,metal,Huntington Beach,California,United States
+412,761,Steve,Clark,30,alcohol related,metal,Sheffield,England,United Kingdom
+413,9,Cliff,Burton,24,car/motorcycle accident,metal,Castro Valley,California,United States
+414,596,Tony,Destra,32,car/motorcycle accident,metal,Harrisburg,Pennsylvania,United States
+415,764,Roger,Patterson,22,car/motorcycle accident,metal,Sarasota,Florida,United States
+416,43,Chuck,Schuldiner,34,cancer,metal,Long Island City,New York,United States
+417,46,Ronnie,Dio,67,cancer,metal,Portsmouth,New Hampshire,United States
+418,54,Charizma,,20,homicide,hip-hop,East Palo Alto,California,United States
+419,56,Seagram,,26,homicide,hip-hop,Oakland,California,United States
+420,68,Mac,Dre,34,homicide,hip-hop,Oakland,California,United States
+421,60,Fat,Pat,27,homicide,hip-hop,Houston,Texas,United States
+422,71,Big ,Hawk,36,homicide,hip-hop,Houston,Texas,United States
+423,320,Don,Robey,71,heart disease,blues,Houston,Texas,United States
+424,759,Goree,Carter,59,unknown,blues,Houston,Texas,United States
+425,63,DJ,Al,32,homicide,hip-hop,Allapattah,Florida,United States
+426,65,Camouflauge,,21,homicide,hip-hop,Savannah,Georgia,United States
+427,526,Trummy,Young,72,brain related,jazz,Savannah,Georgia,United States
+428,74,Lele,,23,homicide,hip-hop,Carolina,Puerto Rico,United States
+429,75,Magnolia,Shorty,28,homicide,hip-hop,Baton Rouge,Louisiana,United States
+430,78,Lil,Path,19,homicide,hip-hop,Baton Rouge,Louisiana,United States
+431,76,Bad,Brown,33,homicide,hip-hop,Port-au-Prince,Ouest,Haiti
+432,77,Adan,Zapata,21,homicide,hip-hop,San Nicolás de los Garza,Nuevo León,Mexico
+433,79,MC,Daleste,20,homicide,hip-hop,São Paulo,São Paulo,Brazil
+434,80,Pavlos,Fyssas,34,homicide,hip-hop,Pérama,Epirus Region,Greece
+435,82,Doe,B,22,homicide,hip-hop,Montgomery,Alabama,United States
+436,171,Nat,Cole,45,cancer,jazz,Montgomery,Alabama,United States
+437,83,The,Jacka,37,homicide,hip-hop,Pittsburg,California,United States
+438,84,Flabba,,37,homicide,hip-hop,Soweto,Gauteng,South Africa
+439,85,Chinx,Drugz,31,homicide,hip-hop,Far Rockaway,New York,United States
+440,87,3-2,,44,homicide,hip-hop,Yakima,Washington,United States
+441,509,Tom,Jans,36,drugs related,folk,Yakima,Washington,United States
+442,88,XXXTentacion,,20,homicide,hip-hop,Plantation,Florida,United States
+443,89,Jimmy,Wopo,21,homicide,hip-hop,Pittsburgh,Pennsylvania,United States
+444,536,Kenny,Clarke,71,heart disease,jazz,Pittsburgh,Pennsylvania,United States
+445,680,Roy,Eldridge,78,heart disease,jazz,Pittsburgh,Pennsylvania,United States
+446,752,Art,Blakey,71,cancer,jazz,Pittsburgh,Pennsylvania,United States
+447,810,Beaver,Harris,55,cancer,jazz,Pittsburgh,Pennsylvania,United States
+448,90,Smoke,Dawg,21,homicide,hip-hop,Toronto,Ontario,Canada
+449,652,Gil,Evans,75,respiratory disease,jazz,Toronto,Ontario,Canada
+450,92,Feis,,32,homicide,hip-hop,Rotterdam,South Holland,Netherlands
+451,93,Kevin,Rodriguez,25,homicide,hip-hop,Río Piedras,Puerto Rico,United States
+452,97,Huey,,32,homicide,hip-hop,Saint Louis County,Missouri,United States
+453,31,Chuck,Berry,90,natural causes,blues,Saint Louis County,Missouri,United States
+454,99,Mo3,,28,homicide,hip-hop,McKinney,Texas,United States
+455,104,Archie,Eversole,37,homicide,hip-hop,Bonn,North Rhine-Westphalia,Germany
+456,105,Sidhu,Wala,28,homicide,hip-hop,Mansa,Punjab,India
+457,107,JayDaYoungan,,24,homicide,hip-hop,Bogalusa,Louisiana,United States
+458,402,Professor,Longhair,61,heart disease,blues,Bogalusa,Louisiana,United States
+459,109,Takeoff,,28,homicide,hip-hop,Lawrenceville,Georgia,United States
+460,48,Prince,Nelson,57,drugs related,hip-hop,Minneapolis,Minnesota,United States
+461,535,Georgie,Stoll,79,respiratory disease,jazz,Minneapolis,Minnesota,United States
+462,699,Keef,Cowboy,28,drugs related,hip-hop,The Bronx,New York,United States
+463,329,Sal,Mineo,37,homicide,pop,The Bronx,New York,United States
+464,738,Trouble,Roy,22, accident,hip-hop,Mount Vernon,New York,United States
+465,129,John,Dolphin,55,homicide,jazz,Monroe County,Alabama,United States
+466,524,Lenny,Breau,43,homicide,jazz,Auburn,Maine,United States
+467,624,Jaco,Pastorious,35,homicide,jazz,Norristown,Pennsylvania,United States
+468,143,Beverly,Kenney,28,suicide,jazz,Harrison,New Jersey,United States
+469,305,Bill,Chase,39,aircraft accident,jazz,Questa,New Mexico,United States
+470,113,Al,Jolson,64,heart disease,jazz,Taurage,Tauragė County,Lithuania
+471,204,Wes,Montgomery,45,heart disease,jazz,Indianapolis,Indiana,United States
+472,723,Thurston,Harris,58,heart disease,blues,Indianapolis,Indiana,United States
+473,236,Johnny,Hodges,62,heart disease,jazz,Cambridge,Massachusetts,United States
+474,239,Maxwell,Davis,54,heart disease,jazz,Independence,Kansas,United States
+475,306,Tina,Brooks,42,heart disease,jazz,Fayetteville,North Carolina,United States
+476,313,Louis,Jordan,66,heart disease,jazz,Brinkley,Arkansas,United States
+477,353,George,Barnes,56,heart disease,jazz,South Chicago Heights,Illinois,United States
+478,361,Guy,Lombardo,75,heart disease,jazz,London,Ontario,Canada
+479,245,Carmen,Lombardo,67,cancer,jazz,London,Ontario,Canada
+480,362,Rahsaan,Kirk,42,heart disease,jazz,Columbus,Ohio,United States
+481,488,Larry,Darnell,54,cancer,blues,Columbus,Ohio,United States
+482,781,Andrew,Tibbs,62,unknown,blues,Columbus,Ohio,United States
+483,368,Money,Johnson,60,heart disease,jazz,Tyler,Texas,United States
+484,336,Melvin,Jackson,60,car/motorcycle accident,blues,Tyler,Texas,United States
+485,382,Grant,Green,43,heart disease,jazz,St. Louis,Missouri,United States
+486,417,Jimmy,Forrest,60,heart disease,jazz,St. Louis,Missouri,United States
+487,456,Floyd,Smith,65,unknown,jazz,St. Louis,Missouri,United States
+488,303,Lightnin,Slim,61,cancer,blues,St. Louis,Missouri,United States
+489,711,Gene,Phillips,74,unknown,blues,St. Louis,Missouri,United States
+490,460,Art,Pepper,56,heart disease,jazz,Gardena,California,United States
+491,482,Earl,Hines,79,heart disease,jazz,Duquesne,Pennsylvania,United States
+492,546,Kay,Kyser,80,heart disease,jazz,Rocky Mount,North Carolina,United States
+493,594,Alfred,Lion,78,heart disease,jazz,San Diego,California,United States
+494,604,Maxine,Sullivan,75,heart disease,jazz,Homestead,Pennsylvania,United States
+495,629,Slam,Stewart,9,heart disease,jazz,Englewood,New Jersey,United States
+496,729,Emily,Remler,32,drugs related,jazz,Englewood,New Jersey,United States
+497,777,Henry,Glover,69,heart disease,jazz,Hot Springs,Arkansas,United States
+498,702,Gene,Nobles,76,unknown,electronic,Hot Springs,Arkansas,United States
+499,158,Dinah,Washington,39,drugs related,jazz,Tuscaloosa,Alabama,United States
+500,689,Good,Charles,56,unknown,blues,Tuscaloosa,Alabama,United States
+501,213,Judy,Garland,47,drugs related,jazz,Grand Rapids,Minnesota,United States
+502,651,Chet,Baker,58,drugs related,jazz,Yale,Oklahoma,United States
+503,178,Dave,Lambert,49,car/motorcycle accident,jazz,Boston,Massachusetts,United States
+504,464,Sonny,Stitt,58,cancer,jazz,Boston,Massachusetts,United States
+505,593,Ray,Bolger,83,cancer,pop,Boston,Massachusetts,United States
+506,388,Jack,Haley,81,respiratory disease,pop,Boston,Massachusetts,United States
+507,237,Earl,Grant,39,car/motorcycle accident,jazz,Idabel,Oklahoma,United States
+508,519,Jimmie,Spheeris,34,car/motorcycle accident,jazz,Phenix City,Alabama,United States
+509,606,Irving,Ashby,66,drawning,jazz,Somerville,Massachusetts,United States
+510,187,John,Coltrane,40,cancer,jazz,Hamlet,North Carolina,United States
+511,243,Harold,McNair,39,cancer,jazz,Kingston,Kingston Parish,Jamaica
+512,498,Hugh,Mundell,21,homicide,Reggae,Kingston,Kingston Parish,Jamaica
+513,605,Carlton,Barrett,36,homicide,Reggae,Kingston,Kingston Parish,Jamaica
+514,677,King,Tubby,48,homicide,Reggae,Kingston,Kingston Parish,Jamaica
+515,532,Keith,Hudson,37,cancer,Reggae,Kingston,Kingston Parish,Jamaica
+516,211,Don,Drummond,37,suicide,ska,Kingston,Kingston Parish,Jamaica
+517,387,Blue,Mitchell,49,cancer,jazz,Miami,Florida,United States
+518,149,Kelsey,Pharr,44,cancer,blues,Miami,Florida,United States
+519,496,Willie,Bobo,49,cancer,jazz,East Harlem,New York,United States
+520,513,Count,Basie,79,cancer,jazz,Red Bank,New Jersey,United States
+521,563,Joe,Farrell,48,cancer,jazz,Chicago Heights,Illinois,United States
+522,578,Thad,Jones,24,cancer,jazz,Pontiac,Michigan,United States
+523,616,Lee,Gaines,73,cancer,jazz,Chickasaw County,Mississippi,United States
+524,676,Joe,Raposo,51,cancer,jazz,Fall River,Massachusetts,United States
+525,683,Marek,Bliziński,41,cancer,jazz,Warsaw,Masovian Voivodeship,Poland
+526,579,Moses,Asch,80,unknown,folk,Warsaw,Masovian Voivodeship,Poland
+527,694,Nesuhi ,Ertegun,71,cancer,jazz,Elbistan,Kahramanmaraş,Turkey
+528,714,Mel,Lewis,60,cancer,jazz,Buffalo,New York,United States
+529,467,Patrick,Cowley,32,AIDS,electronic,Buffalo,New York,United States
+530,762,Stan,Szelest,48,heart disease,country,Buffalo,New York,United States
+531,722,Sarah,Vaughan,66,cancer,jazz,Newark,New Jersey,United States
+532,465,Nick,Lucas,84,respiratory disease,jazz,Newark,New Jersey,United States
+533,260,Linda,Jones,27,diabetes,blues,Newark,New Jersey,United States
+534,49,Whitney,Houston,48,drawning,pop,Newark,New Jersey,United States
+535,731,Morris,Levy,62,cancer,jazz,Harlem,New York,United States
+536,282,Jimmy,Radcliffe,36,kidney related,pop,Harlem,New York,United States
+537,755,Bobby,Scott,53,cancer,jazz,Westchester County,New York,United States
+538,786,Richard,Holmes,60,cancer,jazz,Camden,New Jersey,United States
+539,797,Billy,Vaughn,72,cancer,jazz,Glasgow,Kentucky,United States
+540,820,Jim,Pepper,50,cancer,jazz,Salem,Oregon,United States
+541,807,Buck,Clayton,80,natural causes,jazz,Parsons,Kansas,United States
+542,128,Walter,Page,57,respiratory disease,jazz,Gallatin,Missouri,United States
+543,276,Kid,Ory,86,respiratory disease,jazz,Saint John the Baptist Parish,Louisiana,United States
+544,704,Cousin,Joe,81,natural causes,blues,Saint John the Baptist Parish,Louisiana,United States
+545,573,Hank,Mobley,55,respiratory disease,jazz,Eastman,Georgia,United States
+546,634,Joe,Albany,63,respiratory disease,jazz,Atlantic City,New Jersey,United States
+547,798,Miles,Davis,65,respiratory disease,jazz,Alton,Illinois,United States
+548,322,Cannonball,Adderley,46,brain related,jazz,Tampa,Florida,United States
+549,809,King,Kolax,9,brain related,jazz,Kansas City,Kansas,United States
+550,660,Priscilla,Bowman,60,cancer,blues,Kansas City,Kansas,United States
+551,123,Papa,Celestin,70,unknown,jazz,Napoleonville,Louisiana,United States
+552,200,Bumps,Myers,55,unknown,jazz,Clarksburg,West Virginia,United States
+553,261,Doles,Dickens,56,unknown,jazz,Raleigh,North Carolina,United States
+554,267,Lovie,Austin,84,unknown,jazz,Chattanooga,Tennessee,United States
+555,550,Little,Montgomery,79,unknown,jazz,Kentwood,Louisiana,United States
+556,776,Paul,Gayten,71,unknown,blues,Kentwood,Louisiana,United States
+557,611,Kid,Valentine,91,unknown,jazz,Reserve,Louisiana,United States
+558,725,Rufus,Jones,53,unknown,jazz,Charleston,South Carolina,United States
+559,111,Bertha,Hill,45,car/motorcycle accident,blues,Charleston,South Carolina,United States
+560,750,Sam,Taylor,74,unknown,jazz,Henderson County,Tennessee,United States
+561,811,Teddy,Grace,86,unknown,jazz,Arcadia,Louisiana,United States
+562,221,Tommy,Edwards,47,tuberculosis,jazz,Richmond,Virginia,United States
+563,708,Freddie,Waits,46,kidney related,jazz,Jackson,Mississippi,United States
+564,678,Hip,Linkchain,52,cancer,blues,Jackson,Mississippi,United States
+565,112,Papa,McCoy,41,brain related,blues,Jackson,Mississippi,United States
+566,747,Boogie ,Webb,66,unknown,blues,Jackson,Mississippi,United States
+567,374,Al,Benson,70,unknown,electronic,Jackson,Mississippi,United States
+568,716,Johnnie,Ray,63,kidney related,jazz,Dallas,Oregon,United States
+569,168,Buster,Pickens,48,homicide,blues,Hempstead,Texas,United States
+570,169,Sam,Cooke,33,homicide,blues,Clarksdale,Mississippi,United States
+571,399,Jackie,Brenston,49,heart disease,blues,Clarksdale,Mississippi,United States
+572,534,Eddie,Brown,52,heart disease,blues,Clarksdale,Mississippi,United States
+573,174,Jazz,Gillum,61,homicide,blues,Indianola,Mississippi,United States
+574,197,Little,Walter,37,homicide,blues,Marksville,Louisiana,United States
+575,229,Darrel,Banks,32,homicide,blues,Mansfield,Ohio,United States
+576,231,Kid,Thomas,35,homicide,blues,Oktibbeha County,Mississippi,United States
+577,354,Mercy,Baby,47,homicide,blues,Rawls Springs,Mississippi,United States
+578,717,Cornell,Gunter,53,homicide,blues,Coffeyville,Kansas,United States
+579,664,Roy,Buchanan,48,suicide,blues,Ozark,Arkansas,United States
+580,580,Esquerita, ,50,AIDS,blues,Greenville,South Carolina,United States
+581,193,Otis,Redding,26,aircraft accident,blues,Dawson,Georgia,United States
+582,345,Annette,Snell,32,aircraft accident,blues,Orlando,Florida,United States
+583,110,Kansas,McCoy,44,heart disease,blues,Raymond,Mississippi,United States
+584,118,Carolina,Slim,30,heart disease,blues,Caswell County,North Carolina,United States
+585,125,Charles,Davenport,61,heart disease,blues,Anniston,Alabama,United States
+586,126,Tommy,Johnson,60,heart disease,blues,Terry,Mississippi,United States
+587,131,Leroy,Foster,35,heart disease,blues,Pontotoc County,Mississippi,United States
+588,156,Elmore,James,45,heart disease,blues,Richland,Mississippi,United States
+589,159,Cyril,Davies,31,heart disease,blues,Denham,England,United Kingdom
+590,167,Joe,Henderson,27,heart disease,blues,Como,Mississippi,United States
+591,205,Luther,Perkins,40,drugs related,country,Como,Mississippi,United States
+592,172,Sonny,Williamson,52,heart disease,blues,Greenwood,Mississippi,United States
+593,138,Guitar,Slim,32,respiratory disease,blues,Greenwood,Mississippi,United States
+594,446,Furry,Lewis,82,respiratory disease,blues,Greenwood,Mississippi,United States
+595,181,John,Hurt,73,heart disease,blues,Carroll County,Mississippi,United States
+596,202,Little,John,30,heart disease,blues,Ouachita County,Arkansas,United States
+597,208,Kokomo,Arnold,67,heart disease,blues,Clayton County,Georgia,United States
+598,220,Leonard,Chess,52,heart disease,blues,Motal’,Brest Region,Belarus
+599,223,Magic,Sam,32,heart disease,blues,Grenada County,Mississippi,United States
+600,263,Gary,Davis,76,heart disease,blues,Laurens,South Carolina,United States
+601,308,Pink,Anderson,74,heart disease,blues,Laurens,South Carolina,United States
+602,269,Baby,Tate,56,heart disease,blues,Elberton,Georgia,United States
+603,278,Duke,Henderson,48,heart disease,blues,Liberty,Missouri,United States
+604,283,Memphis,Minnie,76,heart disease,blues,Tunica County,Mississippi,United States
+605,288,Rosetta,Tharpe,58,heart disease,blues,Woodruff County,Arkansas,United States
+606,316,T-Bone,Walker,64,heart disease,blues,Linden,Texas,United States
+607,326,Howlin,Wolf,65,heart disease,blues,Clay County,Mississippi,United States
+608,327,Chris ,Kenner,46,heart disease,blues,Kenner,Louisiana,United States
+609,338,Jimmy,Reed,50,heart disease,blues,Washington County,Mississippi,United States
+610,339,L.,Robinson,62,heart disease,blues,Brenham,Texas,United States
+611,347,Lafayette,Thomas,48,heart disease,blues,Loup City,Nebraska,United States
+612,348,Sleepy,Estes,77,heart disease,blues,Ripley,Tennessee,United States
+613,350,Baby,Warren,57,heart disease,blues,Lake Providence,Louisiana,United States
+614,351,Big,Wrencher,54,heart disease,blues,Sunflower,Mississippi,United States
+615,421,O.,Wright,41,heart disease,blues,Shelby County,Tennessee,United States
+616,430,Tampa,Red,78,heart disease,blues,Lee County,Georgia,United States
+617,438,Roy,Brown,55,heart disease,blues,Kinder,Louisiana,United States
+618,450,Big,Horton,60,heart disease,blues,Horn Lake,Mississippi,United States
+619,466,Joe,Tex,47,heart disease,blues,Rogers,Texas,United States
+620,483,Muddy,Waters,70,heart disease,blues,Issaquena County,Mississippi,United States
+621,514,Z.,Hill,48,heart disease,blues,Naples,Texas,United States
+622,521,Big,Thornton,57,heart disease,blues,Dale County,Alabama,United States
+623,523,Percy,Mayfield,63,heart disease,blues,Webster Parish,Louisiana,United States
+624,529,Geater,Davis,42,heart disease,blues,Kountze,Texas,United States
+625,544,Pee,Crayton,70,heart disease,blues,Rockdale,Texas,United States
+626,554,Big,Turner,74,heart disease,blues,Kansas City,Missouri,United States
+627,597,Jimmy,Holiday,52,heart disease,blues,Attala County,Mississippi,United States
+628,599,Norman,Harris,39,heart disease,blues,Danville,Virginia,United States
+629,620,Joe,Liggins,71,heart disease,blues,Seminole,Oklahoma,United States
+630,635,René,Hall,75,heart disease,blues,Morgan City,Louisiana,United States
+631,666,J.,Heard,71,heart disease,blues,Dayton,Ohio,United States
+632,758,Dee,Clark,52,heart disease,blues,Blytheville,Arkansas,United States
+633,816,Thunderbird,Davis,53,heart disease,blues,Prichard,Alabama,United States
+634,238,Alan,Wilson,27,drugs related,blues,Arlington,Massachusetts,United States
+635,431,Bob,Hite,38,drugs related,blues,Torrance,California,United States
+636,785,David,Ruffin,50,drugs related,blues,Lauderdale County,Mississippi,United States
+637,117,Willie,Love,46,alcohol related,blues,Bolivar County,Mississippi,United States
+638,297,Roy,Hawkins,71,alcohol related,blues,Jefferson,Texas,United States
+639,371,Juke,Bonner,46,alcohol related,blues,Austin County,Texas,United States
+640,493,James,Jamerson,47,alcohol related,blues,Edisto,South Carolina,United States
+641,141,Jesse,Belvin,27,car/motorcycle accident,blues,San Antonio,Texas,United States
+642,142,Forest,Joe,33,car/motorcycle accident,blues,Hughes,Arkansas,United States
+643,625,Ted,Taylor,53,car/motorcycle accident,blues,Okmulgee,Oklahoma,United States
+644,644,Dave,Prater,50,car/motorcycle accident,blues,Ocilla,Georgia,United States
+645,132,Bill,Broonzy,55,cancer,blues,Jefferson County,Arkansas,United States
+646,145,Smokey,Hogg,46,cancer,blues,Odessa,Texas,United States
+647,150,Stick,McGhee,43,cancer,blues,Knoxville,Tennessee,United States
+648,247,Henry,Haynes,51,heart disease,country,Knoxville,Tennessee,United States
+649,180,Smiley,Lewis,53,cancer,blues,DeQuincy,Louisiana,United States
+650,206,Joe,Hinton,38,cancer,blues,Evansville,Indiana,United States
+651,216,Wynonie ,Harris,53,cancer,blues,Omaha,Nebraska,United States
+652,612,Fred,Astaire,88,respiratory disease,pop,Omaha,Nebraska,United States
+653,219,Skip,James,67,cancer,blues,Yazoo County,Mississippi,United States
+654,224,James,Johnson,67,cancer,blues,Clarksville,Tennessee,United States
+655,234,Otis,Spann,40,cancer,blues,Belzoni,Mississippi,United States
+656,264,Jimmy,Rushing,70,cancer,blues,Oklahoma City,Oklahoma,United States
+657,503,Jimmy,Nolen,49,heart disease,funk,Oklahoma City,Oklahoma,United States
+658,266,Fred,McDowell,68,cancer,blues,Fayette County,Tennessee,United States
+659,310,Ivory,Hunter,60,cancer,blues,Kirbyville,Texas,United States
+660,332,Luther,Johnson,34,cancer,blues,Davisboro,Georgia,United States
+661,344,Bukka,White,70,cancer,blues,Aberdeen,Mississippi,United States
+662,418,Pat,Hare,49,cancer,blues,Cross County,Arkansas,United States
+663,453,Lightin,Hopkins,69,cancer,blues,Centerville,Texas,United States
+664,462,Jane,Vasey,32,cancer,blues,Winnipeg,Manitoba,Canada
+665,486,J.,Hutto,57,cancer,blues,Blackville,South Carolina,United States
+666,505,Alexis,Komer,55,cancer,blues,Paris,Île-de-France,France
+667,770,Serge,Gainsbourg,62,heart disease,pop,Paris,Île-de-France,France
+668,542,Johhny,Fuller,56,cancer,blues,Hinds County,Mississippi,United States
+669,475,Sam,Chatmon,86,unknown,blues,Hinds County,Mississippi,United States
+670,566,John,R.,75,cancer,blues,Manning,South Carolina,United States
+671,628,Little,Foster,65,cancer,blues,Coahoma County,Mississippi,United States
+672,668,Son,House,86,cancer,blues,Coahoma County,Mississippi,United States
+673,385,Joe,Wilkins,58,brain related,blues,Coahoma County,Mississippi,United States
+674,255,Junior,Parker,39,surgery,blues,Coahoma County,Mississippi,United States
+675,670,Bill,Harris,63,cancer,blues,Nash County,North Carolina,United States
+676,352,Tarheel,Slim,53,respiratory disease,blues,Nash County,North Carolina,United States
+677,724,Little,Blue,55,cancer,blues,Vicksburg,Mississippi,United States
+678,818,Willie,Dixon,76,diabetes,blues,Vicksburg,Mississippi,United States
+679,783,Odia,Coates,49,cancer,pop,Vicksburg,Mississippi,United States
+680,766,Bob,Geddins,78,cancer,blues,Falls County,Texas,United States
+681,226,L.,McKinley,51,natural causes,blues,Winona,Mississippi,United States
+682,470,Lazy,Lucas,64,natural causes,blues,Wynne,Arkansas,United States
+683,569,Sonny,Terry,74,natural causes,blues,Greensboro,Georgia,United States
+684,728,Sammy,Lawhorn,54,natural causes,blues,Little Rock,Arkansas,United States
+685,114,Cecil,Gant,37,respiratory disease,blues,Columbia,Tennessee,United States
+686,130,William,Handy,84,respiratory disease,blues,Florence,Alabama,United States
+687,157,Daddy,Stovepipe,96,respiratory disease,blues,Mobile,Alabama,United States
+688,791,Dootsie,Williams,80,unknown,pop,Mobile,Alabama,United States
+689,331,Arthur,Gunter,49,respiratory disease,blues,Oglethorpe County,Georgia,United States
+690,452,Tommy,Tucker,48,respiratory disease,blues,Springfield,Ohio,United States
+691,119,Sol ,Hoʻopiʻi,51,diabetes,blues,Honolulu,Hawaii,United States
+692,177,Peg,Howell,78,diabetes,blues,Eatonton,Georgia,United States
+693,258,Big,Maybelle,47,diabetes,blues,Jackson,Tennessee,United States
+694,298,Arthur,Crudup,68,diabetes,blues,Forest,Mississippi,United States
+695,691,Vivian,Carter,68,diabetes,blues,Tunica,Mississippi,United States
+696,745,Lafayette ,Leake,71,diabetes,blues,Winona,Missouri,United States
+697,217,Roy,Hamilton,40,brain related,blues,Leesburg,Georgia,United States
+698,487,Walter,Jackson,45,brain related,blues,Pensacola,Florida,United States
+699,115,Luke,Jordan,58,unknown,blues,Lynchburg,Virginia,United States
+700,140,Albert,Wichard,41,unknown,blues,Morrilton,Arkansas,United States
+701,201,Lester,Melrose,76,unknown,blues,Lawrence County,Illinois,United States
+702,203,Bumble,Slim,63,unknown,blues,Brunswick,Georgia,United States
+703,228,Ishmon,Bracey,69,unknown,blues,Byram,Mississippi,United States
+704,270,Calvin,Frazier,57,unknown,blues,Osceola,Arkansas,United States
+705,315,J.,Long,71,unknown,blues,Mecklenburg County,North Carolina,United States
+706,360,Peg,Sam,56,unknown,blues,Union County,South Carolina,United States
+707,395,Gus,Cannon,96,unknown,blues,Marshall County,Mississippi,United States
+708,424,Robert,Williams,66,unknown,blues,Zachary,Louisiana,United States
+709,429,Little,Jones,81,unknown,blues,Bowie County,Texas,United States
+710,517,Harmonica,Slim,49,unknown,blues,Bowie County,Texas,United States
+711,439,Polka,Slim,54,unknown,blues,Woodville,Mississippi,United States
+712,491,Jimmy,Liggins,64,unknown,blues,Pottawatomie County,Oklahoma,United States
+713,497,George,Smith,59,unknown,blues,West Helena,Arkansas,United States
+714,515,Moses,Smith,52,unknown,blues,Jefferson County,Mississippi,United States
+715,552,Blind,Davis,71,unknown,blues,Hattiesburg,Mississippi,United States
+716,576,Clarence,Garlow,75,unknown,blues,Welsh,Louisiana,United States
+717,627,Luke,Miles,62,unknown,blues,Caddo Parish,Louisiana,United States
+718,633,John,Dopyera,94,unknown,blues,Senica,Trnava Region,Slovakia
+719,643,Moody,Jones,79,unknown,blues,Earle,Arkansas,United States
+720,719,Shakey ,Harris,68,unknown,blues,Earle,Arkansas,United States
+721,684,Ray,Agee,68,unknown,blues,Marengo County,Alabama,United States
+722,697,Sonny,Thompson,65,unknown,blues,Wilkinson County,Mississippi,United States
+723,710,Floyd,Jones,72,unknown,blues,Marianna,Arkansas,United States
+724,743,Larry,Birdsong,56,unknown,blues,Pulaski,Tennessee,United States
+725,757,Lester,Williams,70,unknown,blues,Groveton,Texas,United States
+726,765,George,Motola,71,unknown,blues,Hartford,Connecticut,United States
+727,134,Henry,Sims,68,surgery,blues,Sharkey County,Mississippi,United States
+728,233,Earl,Hooker,40,tuberculosis,blues,Quitman County,Mississippi,United States
+729,522,Esther,Phillips,48,kidney related,blues,Galveston,Texas,United States
+730,342,Freddie,King,42,pancreatitis,blues,Gilmer,Texas,United States
+731,808,Headman,Shabalala,46,homicide,pop,uThukela District Municipality,KwaZulu-Natal,South Africa
+732,183,Joe,Meek,37,suicide,pop,Newent,England,United Kingdom
+733,575,Dean,Reed,47,suicide,pop,Denver,Colorado,United States
+734,754,Gervasio, ,42,suicide,pop,Melo,Cerro Largo Department,Uruguay
+735,780,Susan,Fassbender,32,suicide,pop,Bradford,England,United Kingdom
+736,30,Klaus,Nomi,39,AIDS,pop,Immenstadt im Allgäu,Bavaria,Germany
+737,595,Liberace, ,67,AIDS,pop,West Allis,Wisconsin,United States
+738,749,Ray,Stephens,35,AIDS,pop,Manhattan,New York,United States
+739,495,Ira,Gershwin,86,heart disease,pop,Manhattan,New York,United States
+740,410,Anna,Jantar,29,aircraft accident,pop,Poznań,Greater Poland Voivodeship,Poland
+741,547,Kyu,Sakamoto,43,aircraft accident,pop,Kawasaki,Kanagawa Prefecture,Japan
+742,34,Maurice,Gibb,53,heart disease,pop,Douglas,Scotland,United Kingdom
+743,47,George,Michael,53,heart disease,pop,Greater London,England,United Kingdom
+744,389,Darla,Hood,47,heart disease,pop,Dewey,Oklahoma,United States
+745,570,Mark,Dinning,52,heart disease,pop,Grant County,Oklahoma,United States
+746,658,Jimmy,Soul,45,heart disease,pop,Weldon,North Carolina,United States
+747,686,Lucille,Ball,77,heart disease,pop,Jamestown,New York,United States
+748,448,Jud,Strunk,45,aircraft accident,country,Jamestown,New York,United States
+749,817,Ken,Darby,82,heart disease,pop,Hebron,Nebraska,United States
+750,821,Jane,Pickens,84,heart disease,pop,Macon,Georgia,United States
+751,11,Michael,Jackson,50,drugs related,pop,Gary,Indiana,United States
+752,218,Alexandra, ,27,car/motorcycle accident,pop,Klaipėda,Klaipėda District Municipality,Lithuania
+753,279,Sammy,Babitzin,24,car/motorcycle accident,pop,Helsinki,Uusimaa,Finland
+754,588,Desi,Arnaz,69,cancer,pop,Santiago de Cuba,Santiago de Cuba Province,Cuba
+755,736,Kripp,Johnson,57,cancer,pop,Cambridge,Maryland,United States
+756,819,Laurel,Lea,49,cancer,pop,Armidale,New South Wales,Australia
+757,564,Gordon,MacRae,64,respiratory disease,pop,East Orange,New Jersey,United States
+758,623,Lorne,Greene,72,respiratory disease,pop,Ottawa,Ontario,Canada
+759,386,James,Leroy,32,suicide,folk,Ottawa,Ontario,Canada
+760,645,Brook,Benton,56,respiratory disease,pop,Lugoff,South Carolina,United States
+761,449,George,Fretes,59,unknown,pop,Bandung,Jawa Barat,Indonesia
+762,414,Charles,Miller,41,homicide,funk,Olathe,Kansas,United States
+763,805,Jacques ,Morali,44,AIDS,funk,Casablanca,Casablanca-Settat,Morocco
+764,241,Baby,Huey,26,drugs related,funk,Richmond,Indiana,United States
+765,307,Robbie,McIntosh,24,drugs related,funk,Dundee,Scotland,United Kingdom
+766,370,Gerry,Shury,33,car/motorcycle accident,funk,Berkhamsted,England,United Kingdom
+767,372,Glenn,Goins,24,cancer,funk,Plainfield,New Jersey,United States
+768,622,Peter,Tosh,42,homicide,Reggae,Grange Hill,Westmoreland Parish,Jamaica
+769,407,Jacob,Miller,27,car/motorcycle accident,Reggae,Mandeville,Manchester Parish,Jamaica
+770,436,Bob,Marley,36,cancer,Reggae,Saint Ann’s Bay,Saint Ann Parish,Jamaica
+771,641,Amar,Chamkila,27,homicide,folk,Ludhiana,Punjab,India
+772,334,Phil,Ochs,35,suicide,folk,El Paso,Texas,United States
+773,485,Stan,Rogers,33,aircraft accident,folk,Hamilton,Ontario,Canada
+774,311,Nick,Drake,26,drugs related,folk,Yangon,Yangon Region,Myanmar
+775,423,Tim,Hardin,39,drugs related,folk,Eugene,Oregon,United States
+776,613,Elizabeth,Cotten,94,respiratory disease,folk,Carrboro,North Carolina,United States
+777,190,Woody,Guthrie,55,brain related,folk,Okemah,Oklahoma,United States
+778,312,Ezra,Carter,76,unknown,folk,Scott County,Virginia,United States
+779,378,Maybelle,Carter,69,respiratory disease,country,Scott County,Virginia,United States
+780,148,A.,Carter,68,unknown,country,Scott County,Virginia,United States
+781,433,Austin,Pitre,63,unknown,folk,Ville Platte,Louisiana,United States
+782,706,Ewan,MacColl,74,surgery,folk,Broughton,England,United Kingdom
+783,795,Peter,Slaghuis,30,car/motorcycle accident,electronic,Rijswijk,South Holland,Netherlands
+784,577,William,Williams,62,cancer,electronic,Babylon,New York,United States
+785,630,Conny,Plank,47,cancer,electronic,Hütschenhausen,Rhineland-Palatinate,Germany
+786,15,John,Denver,53,aircraft accident,country,Roswell,New Mexico,United States
+787,153,Patsy,Cline,30,aircraft accident,country,Winchester,Virginia,United States
+788,154,Cowboy,Copas,49,aircraft accident,country,Adams County,Ohio,United States
+789,155,Hawkshaw,Hawkins,41,aircraft accident,country,Huntington,West Virginia,United States
+790,163,Jim,Reeves,40,aircraft accident,country,Panola County,Texas,United States
+791,772,Chris,Austin,27,aircraft accident,country,Boone,North Carolina,United States
+792,116,Hank,Williams,29,heart disease,country,Butler County,Alabama,United States
+793,182,Moon,Mullican,57,heart disease,country,Polk County,Texas,United States
+794,207,Red,Foley,58,heart disease,country,Lincoln County,Kentucky,United States
+795,319,George,Morgan,51,heart disease,country,Waverly,Tennessee,United States
+796,405,Warren,Smith,47,heart disease,country,Humphreys County,Mississippi,United States
+797,469,Marty,Robbins,57,heart disease,country,Glendale,Arizona,United States
+798,499,Merle,Travis,65,heart disease,country,Muhlenberg County,Kentucky,United States
+799,543,Lloyd,Green,75,heart disease,country,Greene County,Mississippi,United States
+800,545,Wynn,Stewart,51,heart disease,country,Polk County,Missouri,United States
+801,649,B.,Stevenson,38,heart disease,country,Oak Cliff Place,Texas,United States
+802,285,Gram,Parsons,26,drugs related,country,Winter Haven,Florida,United States
+803,591,Handsome,Ned,29,drugs related,country,Zweibrücken,Rhineland-Palatinate,Germany
+804,688,Keith,Whitley,34,alcohol related,country,Ashland,Kentucky,United States
+805,281,Clarence,White,29,car/motorcycle accident,country,Lewiston,Maine,United States
+806,301,Don,Rich,32,car/motorcycle accident,country,Olympia,Washington,United States
+807,794,Dottie,West,58,car/motorcycle accident,country,McMinnville,Tennessee,United States
+808,640,Gordon,Huntley,62,cancer,country,Newbury,England,United Kingdom
+809,675,Jethro,Burns,68,cancer,country,Polk County,Tennessee,United States
+810,767,Webb,Pierce,69,cancer,country,West Monroe,Louisiana,United States
+811,801,Tennessee,Ford,72,cancer,country,Bristol,Tennessee,United States
+812,37,Johnny,Cash,71,diabetes,country,Cleveland County,Arkansas,United States
+813,380,Sara,Carter,80,unknown,country,Russell County,Virginia,United States
+814,525,Hammie,Nixon,76,unknown,country,Brownsville,Tennessee,United States
+815,516,Meredith,Willson,82,heart disease,classical,Mason City,Iowa,United States
+816,478,William,Walton,80,natural causes,classical,Oldham,England,United Kingdom
+817,703,Irving,Berlin,101,natural causes,classical,Tyumen,Tyumen Oblast,Russia
+818,185,Nelson,Eddy,65,brain related,classical,Providence,Rhode Island,United States
+819,701,Pérez,Prado,72,heart disease,mambo,Matanzas,Matanzas Province,Cuba
